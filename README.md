@@ -7,6 +7,8 @@ This project analyzes BlinkIt's sales data using Power BI to identify revenue tr
 <img src="Blinkit Sales Analysis_page-0001.jpg">
 </p>
 
+[Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=7bf5f8fd-c061-47d0-b102-4b0530325449&autoAuth=true&ctid=cb0ed80c-344d-4952-bec0-fddd190f3163)
+
 **The dashboard presents:**
 - Key KPIs including Total sales ($1.2M), average sales, total items sold and average ratings.
 - Sales trends by outlet establishment year.
